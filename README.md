@@ -1,10 +1,11 @@
 # Synchronizer-Token-Pattern
 CSRF Protection - Synchronizer Token Pattern
 
-------------Info--------------
+------------Info-------------------------------------------------------------------
 CSRF Protection - Synchronizer Token Pattern sample web applications using php and js.
 clone the "CSRF-Synchronizer Token Pattern" folder and put it inside htdocs(XAMMP).
-Access using localhost/CSRF-Synchronizer Token Pattern/ 
+Access using localhost/CSRF-Synchronizer Token Pattern/
+
 Username : admin Password : password
 
 Desgin and Developed by : Sumala Mannage
